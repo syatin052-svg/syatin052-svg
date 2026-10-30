@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yatin Sharma 👋
 
-<!--
-**syatin052-svg/syatin052-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | AI/ML Enthusiast | Building in Public
 
-Here are some ideas to get you started:
+- 🔭 Currently learning: Python, Data Structures & Machine Learning
+- 🌱 Goal: To become a skilled Software Engineer & get a high-paying job through skills
+- 💻 I document my learning journey here daily
+- 📫 Reach me: [LinkedIn / Email add kar dena]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`Python` `Git` `GitHub` `VS Code`
+
+---
+⭐️ From Jalandhar, Punjab - Learning every day!
+
+
+
